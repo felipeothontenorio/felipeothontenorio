@@ -1,18 +1,16 @@
 ## Faaaala dev, Felipe Aqui!
-
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
 <br>
 
+🖥️ Atualmente estudo Ciência da Computação.
+🖥️ Estou estudando front-end no momento, mas pretendo ser uma desenvolvedora Full-stack.
+🖥️ Estou trabalhando em projetos pessoais para meu portfólio (no momento, terminando um site feito com HTML, CSS e JavaScript).
+🖥️ Sou curiosa, responsável, criativa, gosto de aprender coisas novas e resolver problemas. Sempre amei tecnologia.
+🖥️ Você pode entrar em contato comigo, caso queira!
+🖥️ Estou sempre à disposição.
 
 ## Ferramentas e Tecnologias
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,figma)](https://skills.thijs.gg)
 
-## Estou estudando !
-[![My Skills](https://skills.thijs.gg/icons?i=figma,py)](https://skills.thijs.gg)
 
 
   <h1 align="center">Redes Sociais</h1>
